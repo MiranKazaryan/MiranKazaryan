@@ -8,8 +8,8 @@
 
 ## Статистика 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MiranKazaryan&show_icons=true&theme=gotham" alt="MiranKazaryan" />
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MiranKazaryan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MiranKazaryan github stats" /></a> | <a href="https://github.com/MiranKazaryan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiranKazaryan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ### Навыки и языки:
 <img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
