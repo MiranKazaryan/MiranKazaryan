@@ -1,8 +1,7 @@
-## Привет 👋
-### Меня зовут **Миран Казарян**
+## Привет всем! Меня зовут Миран👋
 
 - Разрабатываю проекты в рамках обучения [*Yandex (веб-разработчик)*](https://practicum.yandex.ru/profile/web/)
-- Изучаю сейчас: REST API, Redux
+- Сейчас изучаю: REST API, Redux
 - Как со мной связаться:   
 Телеграм - @mrnkzrn  
 Вконтакте - [*Миран Казарян*](https://vk.com/mrnkzrn)  
@@ -22,4 +21,4 @@
 
 <img align="left" alt="Figma" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MiranKazaryan&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MiranKazaryan&show_icons=true&theme=gotham" alt="MiranKazaryan" />
