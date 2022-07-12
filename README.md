@@ -21,15 +21,3 @@
 <img align="left" alt="Git" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
 
 <img align="left" alt="Figma" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" />
-
-<img align="left" alt="Md" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" />
-
-<!-- <img align="left" alt="TypeScript" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" /> -->
-
-<!-- <img align="left" alt="Pug" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pug-Dark.svg" /> -->
-
-<!-- <img align="left" alt="Redux" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" /> -->
-
-<!-- <img align="left" alt="NodeJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" /> -->
-
-<!-- <img align="left" alt="ExpressJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" /> -->
