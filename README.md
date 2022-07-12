@@ -6,6 +6,9 @@
 Телеграм - @mrnkzrn  
 Вконтакте - [*Миран Казарян*](https://vk.com/mrnkzrn)  
 
+## Статистика 
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MiranKazaryan&show_icons=true&theme=gotham" alt="MiranKazaryan" />
 
 
 ### Навыки и языки:
@@ -21,4 +24,4 @@
 
 <img align="left" alt="Figma" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" />
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MiranKazaryan&show_icons=true&theme=gotham" alt="MiranKazaryan" />
+
